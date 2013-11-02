@@ -1,0 +1,8 @@
+# Vim temporary files
+*.swo
+*.swp
+# Python bytecode files
+*.pyc
+*.pyo
+# sqlite databases
+*.db
